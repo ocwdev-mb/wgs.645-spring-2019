@@ -1,0 +1,32 @@
+leftnav:
+- identifier: b7994518-c015-3bb0-1040-2515da72a638
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 6ca7332d-4d70-45b0-79fe-911d9f82ba3b
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 7048ea90-40e2-153c-dd7f-ca7f775b1ec1
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 95f06dde-34f2-cdb7-ab5d-cf58dbe41ce4
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: b85623f2-47af-3f5f-4d26-c1b987c42fc7
+  name: Individual Presentation/Blog Posts
+  pageRef: /pages/assignments/individual-presentation-blog-posts
+  parent: 95f06dde-34f2-cdb7-ab5d-cf58dbe41ce4
+  weight: 50
+- identifier: b3a4bcb8-ef96-e17d-9a7f-cedc0198b071
+  name: Group Presentations
+  pageRef: /pages/assignments/group-presentations
+  parent: 95f06dde-34f2-cdb7-ab5d-cf58dbe41ce4
+  weight: 60
+- identifier: 956d2f43-b32e-e703-5533-375b2acc2f1b
+  name: Research Paper
+  pageRef: /pages/assignments/research-paper
+  parent: 95f06dde-34f2-cdb7-ab5d-cf58dbe41ce4
+  weight: 70
